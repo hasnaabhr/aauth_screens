@@ -1,16 +1,14 @@
-# authscreen
+## Screenshots
 
-A new Flutter project.
+### Login 
+![Login Screen](screenshots/login.png)
 
-## Getting Started
+### Sign Up
 
-This project is a starting point for a Flutter application.
+![SignUp Screen](screenshots/sign up.png)
 
-A few resources to get you started if this is your first Flutter project:
+### forget password
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![SignUp Screen](screenshots/forget password.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
