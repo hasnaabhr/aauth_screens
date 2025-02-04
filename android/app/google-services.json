@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "943810789025",
+    "project_id": "auth-cycle-project",
+    "storage_bucket": "auth-cycle-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943810789025:android:8b36637cd6e64fce097ae0",
+        "android_client_info": {
+          "package_name": "com.example.authscreen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7_zq_wO8YScTVjVGs14meBXldB6Gqu5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
